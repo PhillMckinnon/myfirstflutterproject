@@ -1,17 +1,5 @@
 # shop_git
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# myfirstflutterproject" 
+![image](https://github.com/PhillMckinnon/myfirstflutterproject/assets/118521952/20f1be7f-e3ac-406b-b31b-b9d7d2cff892)
+![image](https://github.com/PhillMckinnon/myfirstflutterproject/assets/118521952/de79e848-9c1b-4bf4-a2f1-47ff1c87de8d)
